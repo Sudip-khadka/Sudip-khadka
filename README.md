@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚛️ Currently learning React <br>🧑🏻‍💻 I am currently working on various projects associated with Web Dev <br>🧔🏻 Am open for open source projects to collaborate on any frontend projects <br><br>
+⚛️ Currently engaged in Web Application Projects <br>🧑🏻‍💻 I am currently working on various projects associated with Web Dev <br>🧔🏻 Am open for open source projects to collaborate on any frontend projects <br><br>
 
 
 ## 🌐 Socials:
